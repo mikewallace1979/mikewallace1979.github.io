@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+Ohai.
+
+Posts:
+
+* [test](2022/03/06/first.html)
