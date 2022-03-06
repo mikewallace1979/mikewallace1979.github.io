@@ -3,6 +3,7 @@ layout: post
 title:  "First!"
 date:   2022-03-06 07:56:00 +0000
 categories:
+author: Mike Wallace
 ---
 
 First post.
