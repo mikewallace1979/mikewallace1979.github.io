@@ -28,7 +28,7 @@ twitter_username: m1ke_wallace
 github_username:  mikewallace1979
 
 # Build settings
-theme: jekyll-theme-primer
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
